@@ -26,7 +26,6 @@ pipeline {
             steps {
                 echo 'Project is successful'
                 echo 'Your Pipeline is Successful'
-                echo "This project is to check the webhook is successful or not"
             }
         }
     }
