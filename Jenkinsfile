@@ -29,6 +29,7 @@ pipeline {
                 echo 'This project is to check webhook configuration'
                 echo 'This is suriya'
                 echo 'This is my webhook project'
+                echo "Webhook is successful"
             }
         }
     }
