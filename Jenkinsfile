@@ -30,6 +30,7 @@ pipeline {
                 echo 'This is suriya'
                 echo 'This is my webhook project'
                 echo "Webhook is successful"
+                echo "Hello World"
             }
         }
     }
